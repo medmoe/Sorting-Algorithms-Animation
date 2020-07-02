@@ -1,6 +1,6 @@
-##Sorting-Animation
+## Sorting-Animation
 
-The program presents an animation of three well known algorithms bubble sort, selection sort, and insertion sort. the sorting algorithms run concurrently to sort a 50 insorted integer numbers. each sorthing algorithm is runned by a separate thread. the representation of the numbers is created using javaFx library. The numbers appear as a histogram.   
+The program presents an animation of three well known algorithms bubble sort, selection sort, and insertion sort. the sorting algorithms run concurrently to sort a 50 unsorted integer numbers. each sorting algorithm is ran by a separate thread. the representation of the numbers is created using javaFx library. The numbers appear as a histogram.   
 
 ## Installation
 
