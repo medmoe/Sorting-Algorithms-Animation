@@ -108,7 +108,7 @@ public class SortingAnimation extends Application {
                         rects[j+1].setFill(Color.TRANSPARENT);
                     }
                     try {
-                        Thread.sleep(90);
+                        Thread.sleep(100);
                     } catch (InterruptedException ex) {
 
                     }
@@ -166,7 +166,7 @@ public class SortingAnimation extends Application {
                         rects3[j].setHeight(rects3[j - 1].getHeight());
                         j = j - 1;
                         try {
-                            Thread.sleep(110);
+                            Thread.sleep(100);
                         } catch (InterruptedException ex) {
 
                         }
